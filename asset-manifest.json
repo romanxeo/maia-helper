@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maia-helper/static/css/main.65fb1a4b.css",
+    "main.js": "/maia-helper/static/js/main.2ab10a00.js",
+    "static/js/787.98952cb0.chunk.js": "/maia-helper/static/js/787.98952cb0.chunk.js",
+    "index.html": "/maia-helper/index.html",
+    "main.65fb1a4b.css.map": "/maia-helper/static/css/main.65fb1a4b.css.map",
+    "main.2ab10a00.js.map": "/maia-helper/static/js/main.2ab10a00.js.map",
+    "787.98952cb0.chunk.js.map": "/maia-helper/static/js/787.98952cb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fb1a4b.css",
+    "static/js/main.2ab10a00.js"
+  ]
+}
