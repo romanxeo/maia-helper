@@ -1,3 +1,1 @@
 # maia-helper
-
-add firebase
